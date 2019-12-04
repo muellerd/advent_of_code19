@@ -1,4 +1,4 @@
-from functions import intcode
+from puzzle2.functions import intcode
 
 file = "input1.txt"
 

@@ -1,4 +1,4 @@
-from functions import *
+from puzzle1.functions import deepCalcFuel
 
 file = "input1.txt"
 

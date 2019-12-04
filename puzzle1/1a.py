@@ -1,4 +1,4 @@
-from functions import calculateFuel
+from puzzle1.functions import calculateFuel
 
 file = "input1.txt"
 fuel_sum = 0
